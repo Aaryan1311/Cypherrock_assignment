@@ -18,3 +18,11 @@ This assignment contains a nodejs CLI tool build using yargs which handles the b
 - hdkey - For generating keys from mnemonics
 - node-localstorage - For storing the wallets in the local storage
 
+## APIs 
+- To accomplish the given task we needed API's to communicate with the blockchain network. 
+- The API is available on https://www.blockcypher.com/
+- Use the API from the given link and paste it into a .env file in the directory to run the cli commands.
+
+## Input-Output
+- The input to the CLI tool is given as arguments to the commands.
+- The output of the CLI tool is displayed on the console.
