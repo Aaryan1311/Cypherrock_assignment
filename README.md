@@ -10,3 +10,11 @@ This assignment contains a nodejs CLI tool build using yargs which handles the b
 - Listing all wallets 
 - Generating an unused bitcoin address from a wallet
 
+## Packages 
+- yargs - For handling the CLI arguments
+- bitcoinjs-lib - For creating and importing wallets
+- axios - For making HTTP requests to the blockchain API
+- bip39 - For generating mnemonics
+- hdkey - For generating keys from mnemonics
+- node-localstorage - For storing the wallets in the local storage
+
